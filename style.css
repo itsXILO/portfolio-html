@@ -1,0 +1,78 @@
+#name{
+    color: #EBD3F8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;   
+    margin: 30px;
+}
+#intro{
+    color: #EBD3F8;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin: 10px;
+}
+.info{
+    background-color: #AD49E1;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    padding: 70px;
+}
+#prof{
+    border-radius: 50%;
+    padding: 10%;
+}
+
+#cse{
+    color: #EBD3F8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: black;
+}
+#skills{
+    background-color: #AD49E1;
+    display: flex;
+    justify-content: center;
+
+}
+#heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #EBD3F8;
+    font-size: 35px;
+}
+#skill1{
+    background-color: #AD49E1;
+    padding-inline: 8%;
+    display: flex;
+    align-content: space-between;
+    gap: 3%;
+}
+#skill2{
+    padding-top: 2%;
+    background-color: #AD49E1;
+    padding-inline: 8%;
+    display: flex;
+    align-content: space-between;
+    gap: 3%;
+}
+#skill3{
+    padding-top: 2%;
+    background-color: #AD49E1;
+    padding-inline: 8%;
+    display: flex;
+    align-content: space-between;
+    gap: 3%;
+}
+#footer{
+    padding: 5%;
+    background-color: #3a2a40;
+}
+#links{
+    color: #EBD3F8;
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
